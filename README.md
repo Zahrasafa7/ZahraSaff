@@ -1,4 +1,4 @@
-# Kumpulan Penggunaan EMT 6 Topik
+# Kumpulan Penggunaan Euler Math Toolbox 6 Topik
 1. Aljabar
 2. Plot 2D
 3. Plot 3D
